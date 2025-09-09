@@ -13,12 +13,6 @@ Skills Demonstrated
 - Applying SQL to analyze datasets and provide business insights  
 
 ---
-Example Queries
-- [Top 5 Customers by Spend](LeetCode/Medium/problem1.sql)  
-- [Monthly Sales Trends](Case-Studies/E-commerce-Analysis.sql)  
-- [Identifying Active Users](LeetCode/Easy/problem2.sql)  
-
----
 Datasets Used
 - [Kaggle Datasets](https://www.kaggle.com/datasets) (for case studies)  
 - Sample company transactions, customer, and product data (self-created for practice)  
